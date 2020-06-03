@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Provider } from './Context/index';
 import Header from './Header';
 import PlayerList from './PlayerList';
 import AddPlayerForm from './AddPlayerForm';
